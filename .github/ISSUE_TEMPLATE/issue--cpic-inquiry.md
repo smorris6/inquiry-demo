@@ -1,5 +1,5 @@
 ---
-name: 'Issue: CPIC Inquiry'
+name: 'CPIC Inquiry'
 about: Submit inquiries to CPIC regarding allele functionality and diplotype-phenotype
   translations
 title: ''
